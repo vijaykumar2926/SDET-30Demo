@@ -15,7 +15,7 @@ public class Demo
 		System.out.println("USER 2 - First Commit");
 
 		
-		System.out.println("22224141;");
+		System.out.println("updated as user 2 ");
 		
 		
 		
