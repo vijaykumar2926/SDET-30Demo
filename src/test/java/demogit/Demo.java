@@ -15,14 +15,5 @@ public class Demo
 		System.out.println("USER 2 - First Commit");
 
 		
-		System.out.println("user 1  - conflict");
-		
-		
-		
-		
-		
-		
-		System.out.println("User 3 - First Commit");
-		
 	}
 }
