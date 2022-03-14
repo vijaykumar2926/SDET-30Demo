@@ -19,10 +19,6 @@ public class Demo
 		System.out.println("Usha changed");
 		
 		
-		
-		
-		
-		
 		System.out.println("User 3 - First Commit");
 		
 		
