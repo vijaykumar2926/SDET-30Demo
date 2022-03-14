@@ -16,13 +16,16 @@ public class Demo
 
 		System.out.println("user 1  - conflict");
 		
-		System.out.println("Usha changed");
-		
-		
+	
 		System.out.println("User 3 - First Commit");
 		
 		
 		System.out.println("User 3 - Second Commit V");
+		
+		System.out.println("Usha changed");
+		
+		
+		
 		
 	}
 }
